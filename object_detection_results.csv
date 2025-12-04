@@ -1,0 +1,63 @@
+Filename,Algorithm,Objects Detected,Object List,Max Probability,Avg Probability,Processing Time (s)
+002_Wild_Alpine_Ibex_Swiss_Alps_and_Creux_du_Van_Photo_by_Giles_Laurent.jpg,Faster R-CNN,1,dog,0.6810001730918884,0.6810001730918884,5.33555793762207
+01845_ITA_Tuscany_Sorano_panoramic_view_S_V-P.jpg,Faster R-CNN,4,"clock, clock, clock, clock",0.9408923983573914,0.771557092666626,13.460951328277588
+024_Red-chested_cuckoo_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg,Faster R-CNN,1,bird,0.999413013458252,0.999413013458252,4.759716987609863
+"Antigua_(Fuerteventura,_Spain),_Museo_de_las_Salinas_del_Carmen,_Kristallisierungsbecken_--_2025_--_7216.jpg",Faster R-CNN,0,None,0.0,0.0,4.5039284229278564
+"Antigua_(Fuerteventura,_Spain),_Museo_de_las_Salinas_del_Carmen,_Kristallisierungsbecken_--_2025_--_7231.jpg",Faster R-CNN,1,sports ball,0.7210271954536438,0.7210271954536438,4.6072399616241455
+"Ayuntamiento,_Poznan,_Polonia,_2019-12-18,_DD_07-09_HDR.jpg",Faster R-CNN,3,"car, potted plant, car",0.8244464993476868,0.7685835361480713,3.764295816421509
+Baby_Hamster_-_2_Weeks_Old.jpg,Faster R-CNN,3,"cat, cat, dog",0.9500950574874878,0.8106129765510559,3.3653459548950195
+Beilstein_-_Kaisersbach_-_Oberes_Höllwäldle_-_Birnbaum_mit_Blick_über_Schmidbachtal_(1).jpg,Faster R-CNN,0,None,0.0,0.0,6.096692323684692
+"Ciudadela,_Carcasona,_Francia,_2023-01-07,_DD_216-218_HDR.jpg",Faster R-CNN,0,None,0.0,0.0,2.7752721309661865
+Cyclamen_coum_in_december_25-12-2024._(d.j.b).jpg,Faster R-CNN,1,carrot,0.7693349719047546,0.7693349719047546,3.7086942195892334
+"Fischerkirche_(window),_Born_a._Darß.jpg",Faster R-CNN,1,bench,0.77781742811203,0.77781742811203,4.332998037338257
+Ford_Madox_Brown_-_The_Last_of_England_-_Google_Art_Project.jpg,Faster R-CNN,5,"person, person, person, person, handbag",0.9516274333000183,0.8159545660018921,6.058670997619629
+Hummel_Cosmea-20231018-RM-170758.jpg,Faster R-CNN,1,bird,0.6152482628822327,0.6152482628822327,3.6653759479522705
+Lapita_image.png,Faster R-CNN,21,"person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, car, car, boat",0.9875133633613586,0.8419190645217896,2.7207682132720947
+Manarola_NW_Cemetery_Corniglia_Monterosso_Cinque_Terre_Sep23_A7C_06872.jpg,Faster R-CNN,0,None,0.0,0.0,3.647111654281616
+"Mountains_in_snow,_Mountain_lake,_Chola_Valley,_Nepal,_Himalayas.jpg",Faster R-CNN,9,"person, person, person, person, person, person, backpack, backpack, person",0.9981666803359985,0.8643767833709717,3.125016450881958
+Muskox_(Ovibos_moschatus)_male_Dovrefjell_1.jpg,Faster R-CNN,2,"bear, cow",0.6501181125640869,0.6251251697540283,3.2426950931549072
+Narrow-banded_dartwhite_(Catasticta_flisa_postaurea)_underside_on_Mimosa_pudica.jpg,Faster R-CNN,2,"umbrella, potted plant",0.6954145431518555,0.6081992387771606,3.192511558532715
+"Pez_unicornio_de_nariz_corta_(Naso_brevirostris),_mar_Rojo,_Egipto,_2023-04-15,_DD_61.jpg",Faster R-CNN,2,"kite, umbrella",0.7445274591445923,0.6834980845451355,3.2859866619110107
+Pirogue_running_on_the_Mekong_at_sunset_with_pink_clouds_in_Don_Det_Laos.jpg,Faster R-CNN,1,person,0.6952850222587585,0.6952850222587585,3.9718503952026367
+"Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg",Faster R-CNN,0,None,0.0,0.0,4.009127378463745
+Santa_Claus_-_Sunkist_Ad_(1928).jpg,Faster R-CNN,1,person,0.8781474232673645,0.8781474232673645,3.7010786533355713
+"Self-portrait_by_Anna_Bilińska-Bohdanowiczowa,_1887.jpg",Faster R-CNN,2,"person, knife",0.9920414090156555,0.9276204109191895,5.585395812988281
+"Snow_on_Ayase_river,_Rijksmuseum_RP-P-2016-66-8.jpg",Faster R-CNN,10,"person, person, boat, person, boat, person, person, person, bench, bird",0.9941031336784363,0.8434468507766724,3.423675775527954
+Soulfly_With_Full_Force_2018_03.jpg,Faster R-CNN,5,"person, tie, tie, cell phone, tie",0.9963153004646301,0.8425755500793457,3.5002596378326416
+Steam_locomotive_gear_(JŽ_06-018;_Slovenia).jpg,Faster R-CNN,1,train,0.6939247846603394,0.6939247846603394,2.930785894393921
+Suzdal_asv2019-01_img37_Kremlin_wooden_church.jpg,Faster R-CNN,0,None,0.0,0.0,3.0498900413513184
+WAB_BDhe_4-4_115_Kleine_Scheidegg_-_Wengernalp.jpg,Faster R-CNN,4,"train, person, person, person",0.9982501864433289,0.835521399974823,3.7645153999328613
+"Xylaria_hypoxylon_(candlestick_fungus)_location,_Val_Sinestra._14-10-2024._(actm.)_01.jpg",Faster R-CNN,0,None,0.0,0.0,3.333052158355713
+Прибалхашский_заказник_сверху_(2).jpg,Faster R-CNN,0,None,0.0,0.0,3.117738723754883
+"Санкт-Петербург,_Чкаловский_46,_барельеф.jpg",Faster R-CNN,2,"person, person",0.9825221300125122,0.9398901462554932,3.2933762073516846
+002_Wild_Alpine_Ibex_Swiss_Alps_and_Creux_du_Van_Photo_by_Giles_Laurent.jpg,YOLOv8,1,horse,0.509026825428009,0.509026825428009,0.9940817356109619
+01845_ITA_Tuscany_Sorano_panoramic_view_S_V-P.jpg,YOLOv8,0,None,0.0,0.0,2.550536870956421
+024_Red-chested_cuckoo_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg,YOLOv8,1,bird,0.8348460793495178,0.8348460793495178,0.5381221771240234
+"Antigua_(Fuerteventura,_Spain),_Museo_de_las_Salinas_del_Carmen,_Kristallisierungsbecken_--_2025_--_7216.jpg",YOLOv8,0,None,0.0,0.0,0.6421568393707275
+"Antigua_(Fuerteventura,_Spain),_Museo_de_las_Salinas_del_Carmen,_Kristallisierungsbecken_--_2025_--_7231.jpg",YOLOv8,0,None,0.0,0.0,0.6547281742095947
+"Ayuntamiento,_Poznan,_Polonia,_2019-12-18,_DD_07-09_HDR.jpg",YOLOv8,0,None,0.0,0.0,0.4617278575897217
+Baby_Hamster_-_2_Weeks_Old.jpg,YOLOv8,0,None,0.0,0.0,0.18493270874023438
+Beilstein_-_Kaisersbach_-_Oberes_Höllwäldle_-_Birnbaum_mit_Blick_über_Schmidbachtal_(1).jpg,YOLOv8,0,None,0.0,0.0,0.7733805179595947
+"Ciudadela,_Carcasona,_Francia,_2023-01-07,_DD_216-218_HDR.jpg",YOLOv8,0,None,0.0,0.0,0.3439755439758301
+Cyclamen_coum_in_december_25-12-2024._(d.j.b).jpg,YOLOv8,0,None,0.0,0.0,0.4417428970336914
+"Fischerkirche_(window),_Born_a._Darß.jpg",YOLOv8,0,None,0.0,0.0,0.5141222476959229
+Ford_Madox_Brown_-_The_Last_of_England_-_Google_Art_Project.jpg,YOLOv8,0,None,0.0,0.0,0.95662522315979
+Hummel_Cosmea-20231018-RM-170758.jpg,YOLOv8,0,None,0.0,0.0,0.395294189453125
+Lapita_image.png,YOLOv8,5,"person, person, person, person, person",0.7373451590538025,0.6254934430122375,0.3593597412109375
+Manarola_NW_Cemetery_Corniglia_Monterosso_Cinque_Terre_Sep23_A7C_06872.jpg,YOLOv8,0,None,0.0,0.0,0.4643712043762207
+"Mountains_in_snow,_Mountain_lake,_Chola_Valley,_Nepal,_Himalayas.jpg",YOLOv8,3,"person, person, person",0.5622066855430603,0.5489115715026855,0.2711198329925537
+Muskox_(Ovibos_moschatus)_male_Dovrefjell_1.jpg,YOLOv8,1,bear,0.8993310928344727,0.8993310928344727,0.33211350440979004
+Narrow-banded_dartwhite_(Catasticta_flisa_postaurea)_underside_on_Mimosa_pudica.jpg,YOLOv8,0,None,0.0,0.0,0.2657332420349121
+"Pez_unicornio_de_nariz_corta_(Naso_brevirostris),_mar_Rojo,_Egipto,_2023-04-15,_DD_61.jpg",YOLOv8,0,None,0.0,0.0,0.30382680892944336
+Pirogue_running_on_the_Mekong_at_sunset_with_pink_clouds_in_Don_Det_Laos.jpg,YOLOv8,0,None,0.0,0.0,0.3915421962738037
+"Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg",YOLOv8,0,None,0.0,0.0,0.6923742294311523
+Santa_Claus_-_Sunkist_Ad_(1928).jpg,YOLOv8,1,person,0.5251625180244446,0.5251625180244446,0.5543551445007324
+"Self-portrait_by_Anna_Bilińska-Bohdanowiczowa,_1887.jpg",YOLOv8,1,person,0.798780083656311,0.798780083656311,0.7217762470245361
+"Snow_on_Ayase_river,_Rijksmuseum_RP-P-2016-66-8.jpg",YOLOv8,1,person,0.5081067085266113,0.5081067085266113,0.25928330421447754
+Soulfly_With_Full_Force_2018_03.jpg,YOLOv8,1,person,0.9221291542053223,0.9221291542053223,0.39732933044433594
+Steam_locomotive_gear_(JŽ_06-018;_Slovenia).jpg,YOLOv8,0,None,0.0,0.0,0.11738276481628418
+Suzdal_asv2019-01_img37_Kremlin_wooden_church.jpg,YOLOv8,0,None,0.0,0.0,0.5099790096282959
+WAB_BDhe_4-4_115_Kleine_Scheidegg_-_Wengernalp.jpg,YOLOv8,1,train,0.8569220900535583,0.8569220900535583,0.33519911766052246
+"Xylaria_hypoxylon_(candlestick_fungus)_location,_Val_Sinestra._14-10-2024._(actm.)_01.jpg",YOLOv8,0,None,0.0,0.0,0.30286526679992676
+Прибалхашский_заказник_сверху_(2).jpg,YOLOv8,0,None,0.0,0.0,0.26407313346862793
+"Санкт-Петербург,_Чкаловский_46,_барельеф.jpg",YOLOv8,3,"person, person, umbrella",0.8957106471061707,0.6922149856885275,0.19505763053894043
